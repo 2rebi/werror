@@ -1,4 +1,5 @@
 # werror
+[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Frebirthlee%2Fwerror%2Fbadge%3Fref%3Dmain&style=flat)](https://actions-badge.atrox.dev/rebirthlee/werror/goto?ref=main)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/rebirthlee/werror)](https://github.com/RebirthLee/werror/releases)
 [![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/rebirthlee/werror)](https://go.dev/doc/go1.17)
 [![license](https://img.shields.io/badge/license-BEER--WARE-green)](/LICENSE.md)
