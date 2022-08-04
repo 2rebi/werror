@@ -110,10 +110,10 @@ func main() {
 	fmt.Println(errors.Is(err, errComputeFailed)) // true
 	
 	// get error
-	fmt.Println(errors.Unwrap(err)) // compute failed
+	fmt.Println(errors.Unwrap(err)) // "compute failed"
 	
 	// get cause
-	fmt.Println(werror.Cause(err)) // not found
+	fmt.Println(werror.Cause(err)) // "not found"
 	
 	// as
 	var node *werror.ErrorNode
