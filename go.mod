@@ -1,4 +1,4 @@
-module github.com/rebirthlee/werror
+module github.com/2rebi/werror
 
 go 1.17
 
